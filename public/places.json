@@ -1,0 +1,35 @@
+[
+  {
+    "id": "cazones1",
+    "title": "Puente Cazones 1",
+    "aliases": [
+      "puente cazones 1",
+      "cazones i"
+    ],
+    "lat": 20.5349,
+    "lng": -97.4587,
+    "kind": "landmark"
+  },
+  {
+    "id": "blvd-lazaro",
+    "title": "Blvd. Lázaro Cárdenas",
+    "aliases": [
+      "lazaro cardenas",
+      "boulevard lazaro cardenas"
+    ],
+    "lat": 20.5337,
+    "lng": -97.4606,
+    "kind": "road"
+  },
+  {
+    "id": "dif-municipal",
+    "title": "DIF Municipal Poza Rica",
+    "aliases": [
+      "dif municipal",
+      "punto de ayuda dif"
+    ],
+    "lat": 20.5348,
+    "lng": -97.4527,
+    "kind": "aid"
+  }
+]
