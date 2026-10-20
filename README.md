@@ -4,6 +4,8 @@
 
 Cuando el río Cazones se desbordó el 10 de octubre de 2025, mucha gente no sabía qué calles seguían inundadas, cuáles estaban cerradas por escombro ni dónde estaban los centros de acopio. En los días siguientes construí esta app para que los propios vecinos reportaran el estado de las calles y se ayudaran a moverse por la ciudad.
 
+**🔗 Demo en vivo: [poza-rica-no-te-rajes-production.up.railway.app](https://poza-rica-no-te-rajes-production.up.railway.app)**
+
 > ⚠️ Iniciativa ciudadana independiente. La información la reportan los usuarios y no es oficial. En una emergencia llama al **911**.
 
 ## 📰 En los medios
